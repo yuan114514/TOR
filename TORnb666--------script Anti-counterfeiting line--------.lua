@@ -5,7 +5,7 @@
 
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "BY: bilibili难忘的水母";
+    Title = "BY: bili8848bili难忘的水母";
     Text = "欢迎";
     Duration = "2";
     callbakc = bindableFunction;
